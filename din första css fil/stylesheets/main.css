@@ -1,0 +1,26 @@
+body {
+    font-size: 1rem;
+}
+
+h1 {
+    font-size: 2rem;
+}
+
+h2 {
+    font-size: 3rem;
+}
+
+.navbar {
+    width: 100%;
+    justify-content: center;
+    font-size: 1.3rem;
+}
+
+main {
+    width: 60%;
+    margin: 0 auto;
+}
+
+.d-flex{
+    display: flex;
+}
